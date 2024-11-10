@@ -1,1 +1,1 @@
-worker : python bot.by
+worker : php bot.php
